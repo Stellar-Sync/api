@@ -7,7 +7,7 @@ using StellarSync.API.Dto.User;
 
 namespace StellarSync.API.SignalR;
 
-public interface IMareHubClient : IMareHub
+public interface IStellarHubClient : IStellarHub
 {
     void OnDownloadReady(Action<Guid> act);
 

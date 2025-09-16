@@ -7,10 +7,10 @@ using StellarSync.API.Dto.User;
 
 namespace StellarSync.API.SignalR;
 
-public interface IMareHub
+public interface IStellarHub
 {
     const int ApiVersion = 33;
-    const string Path = "/mare";
+    const string Path = "/stellar";
 
     Task<bool> CheckClientHealth();
 

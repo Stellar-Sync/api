@@ -1,6 +1,6 @@
 namespace StellarSync.API.Routes;
 
-public class MareFiles
+public class StellarFiles
 {
     public const string Cache = "/cache";
     public const string Cache_Get = "get";

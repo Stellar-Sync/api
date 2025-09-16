@@ -1,6 +1,6 @@
 namespace StellarSync.API.Routes;
 
-public class MareAuth
+public class StellarAuth
 {
     public const string OAuth = "/oauth";
     public const string Auth = "/auth";
