@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Data;
+using StellarSync.API.Data;
 
-namespace MareSynchronos.API.Dto.CharaData;
+namespace StellarSync.API.Dto.CharaData;
 
 public record CharaDataDto(string Id, UserData Uploader)
 {

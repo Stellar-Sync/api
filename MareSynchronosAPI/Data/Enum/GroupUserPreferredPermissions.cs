@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Data.Enum;
+namespace StellarSync.API.Data.Enum;
 
 [Flags]
 public enum GroupUserPreferredPermissions

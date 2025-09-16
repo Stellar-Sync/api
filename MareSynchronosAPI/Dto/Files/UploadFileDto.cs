@@ -1,6 +1,6 @@
-﻿using MessagePack;
+using MessagePack;
 
-namespace MareSynchronos.API.Dto.Files;
+namespace StellarSync.API.Dto.Files;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record UploadFileDto : ITransferFileDto

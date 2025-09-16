@@ -1,6 +1,6 @@
-﻿using MessagePack;
+using MessagePack;
 
-namespace MareSynchronos.API.Dto.CharaData;
+namespace StellarSync.API.Dto.CharaData;
 
 [MessagePackObject(keyAsPropertyName: true)]
 public record CharaDataUpdateDto(string Id)

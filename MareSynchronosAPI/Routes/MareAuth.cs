@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Routes;
+namespace StellarSync.API.Routes;
 
 public class MareAuth
 {

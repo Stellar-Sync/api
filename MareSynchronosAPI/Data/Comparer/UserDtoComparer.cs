@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Dto.User;
+using StellarSync.API.Dto.User;
 
-namespace MareSynchronos.API.Data.Comparer;
+namespace StellarSync.API.Data.Comparer;
 
 public class UserDtoComparer : IEqualityComparer<UserDto>
 {

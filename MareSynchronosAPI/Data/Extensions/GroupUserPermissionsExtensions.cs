@@ -1,6 +1,6 @@
-﻿using MareSynchronos.API.Data.Enum;
+using StellarSync.API.Data.Enum;
 
-namespace MareSynchronos.API.Data.Extensions;
+namespace StellarSync.API.Data.Extensions;
 
 public static class GroupUserPermissionsExtensions
 {

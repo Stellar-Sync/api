@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Dto.CharaData;
+namespace StellarSync.API.Dto.CharaData;
 
 public enum ShareTypeDto
 {

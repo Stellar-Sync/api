@@ -1,4 +1,4 @@
-﻿namespace MareSynchronos.API.Data;
+namespace StellarSync.API.Data;
 
 public class Constants
 {
